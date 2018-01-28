@@ -1,0 +1,8 @@
+User-agent: Yandex 
+Disallow: /*office
+Disallow: /*images
+Disallow: /*common/commonrules.php
+Allow: /Sitemap: 
+https://unatka.ru/sitemap.xml
+Host: https://unatka.ru
+
